@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/rclaveau-tech/discord_bot/compare/v1.0.0...v1.0.1) (2025-06-10)
+
+
+### Bug Fixes
+
+* make release please tag trigger tag workflow ([3a1b0a2](https://github.com/rclaveau-tech/discord_bot/commit/3a1b0a2f219cb5fa4ba4c16cb807224b329ab4ca))
+
 ## 1.0.0 (2025-06-10)
 
 
