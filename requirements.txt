@@ -8,7 +8,7 @@ frozenlist==1.6.2
 idna==3.10
 multidict==6.4.4
 propcache==0.3.1
-py-cord==2.7.1
+py-cord @ git+https://github.com/rclaveau-tech/pycord.git@v2.7.0-alpha
 pycparser==2.22
 pydub==0.25.1
 PyNaCl==1.5.0
