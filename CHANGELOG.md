@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/rclaveau-tech/discord_bot/compare/v1.0.1...v1.0.2) (2026-02-11)
+
+
+### Bug Fixes
+
+* update pycord version for api change ([2752e2c](https://github.com/rclaveau-tech/discord_bot/commit/2752e2c353cdcf1c8b9dbe5edd5ab125b6155efc))
+* update pycord version for api change ([6920ff6](https://github.com/rclaveau-tech/discord_bot/commit/6920ff6c327879c2aa99e54191416d2c831e832d))
+
 ## [1.0.1](https://github.com/rclaveau-tech/discord_bot/compare/v1.0.0...v1.0.1) (2025-06-10)
 
 
